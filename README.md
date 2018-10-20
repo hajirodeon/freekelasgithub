@@ -33,6 +33,6 @@ http://t.me/freekelasgithub
 ### X
 
 ### Y
-  * Yunindyo Prabowo [ypraw](https://github.com/ypraw)
+  * Yunindyo Prabowo [github](https://github.com/ypraw) (Domisili : Semarang)
 
 ### Z
