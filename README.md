@@ -12,11 +12,13 @@ http://t.me/freekelasgithub
 ### C
 ### D
 ### E
+  * Epsiarto Rizqi Nurwijayadi [gitlab-epsi](https://gitlab.com/epsi-rns) (Domisili : Jakarta Timur)
+
 ### F
 ### G 
 ### H
 ### I 
-## J
+### J
 ### K 
 ### L
 ### M
