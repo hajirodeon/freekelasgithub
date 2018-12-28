@@ -8,6 +8,8 @@ http://t.me/freekelasgithub
 ## Daftar Anggota Group Telegram freekelasgithub
 
 ### A
+  * Agus Muhajir (Kendal, Jawa Tengah)
+
 ### B
 ### C
 ### D
