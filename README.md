@@ -1,9 +1,9 @@
 # freekelasgithub
 freekelasgithub
 
-Free Kelas GITHUB. 
-Belajar manajemen dan pengembangan aplikasi. 
-http://t.me/freekelasgithub 
+Free Kelas GITHUB.
+Belajar manajemen dan pengembangan aplikasi.
+http://t.me/freekelasgithub
 
 ## Daftar Anggota Group Telegram freekelasgithub
 
@@ -17,14 +17,13 @@ http://t.me/freekelasgithub
   * Epsiarto Rizqi Nurwijayadi [gitlab-epsi](https://gitlab.com/epsi-rns) (Domisili : Jakarta Timur)
 
 ### F
-### G 
+### G
 ### H
-  * Handiko (username telegram : Enigma, Tangerang Selatan, Banten) https://github.com/handiko
-### I 
-  * Ibrohim Mahmud Hanafi 
-[github](https://github.com/blackinitial) (Asal Klaten)
+  * Handiko [GitHub/handiko](https://github.com/handiko) (username telegram : Enigma, Tangerang Selatan, Banten)
+### I
+  * Ibrohim Mahmud Hanafi [github](https://github.com/blackinitial) (Asal Klaten)
 ### J
-### K 
+### K
 ### L
 ### M
   * Muhammad Nabil Adani [Github/nabil48](https://github.com/nabil48) (Domisili : Jawa Timur)
@@ -34,6 +33,7 @@ http://t.me/freekelasgithub
 ### P
 ### Q
 ### R
+  * Rizqi Nur Assyaufi [bandithijo.com](https://bandithijo.com) (Domisili : Balikpapan)
 ### S
 ### T
 ### U
