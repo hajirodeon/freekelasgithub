@@ -9,7 +9,7 @@ http://t.me/freekelasgithub
 
 ### A
   * Agus Muhajir (Kendal, Jawa Tengah)
-
+  * Afif Arman (Pontianak, Kalimantan Barat)
 ### B
 ### C
 ### D
