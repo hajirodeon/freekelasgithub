@@ -18,6 +18,7 @@ http://t.me/freekelasgithub
 
 ### F
 ### G
+  * Ghani Rafif [github](https://github.com/ekickx) (Domisili: Jombang, Jawa Timur)
 ### H
   * Handiko [GitHub/handiko](https://github.com/handiko) (username telegram : Enigma, Tangerang Selatan, Banten)
 ### I
