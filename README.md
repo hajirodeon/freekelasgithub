@@ -1,9 +1,21 @@
-# freekelasgithub
-freekelasgithub
-
+# freekelasgithubfreekelasgithub
 Free Kelas GITHUB.
+
 Belajar manajemen dan pengembangan aplikasi.
 http://t.me/freekelasgithub
+
+## Panduan
+Selamat datang para member group freekelasgithub telegram, repository ini berisikan daftar anggota yang telah memiliki akun github/gitlab. Jika anda belum memiliki akun github maka anda dapat membuatnya terlebih dahulu [Daftar Github](https://github.com/join?source=header-home). Atau anda dapat pula menggunakan akun gitlab dengan mendaftar pada link berikut [Daftar Gitlab](https://gitlab.com/users/sign_in#register-pane).
+
+Jika sudah memilikinya namun belum mengerti bagaimana caranya berkontribusi pada repository ini, silahkan baca tautan berikut [FirstContributions](https://github.com/firstcontributions/first-contributions).
+
+Untuk menuliskan data diri anda, gunakan format markdown, jika anda belum mengetahui apa itu markdown, maka anda dapat membacanya dilampiran berikut, [Markdown Cheatseet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+> MOHON DIPERHATIKAN BEBERAPA HAL BERIKUT:
+> * _DIMOHON UNTUK MELAMPIRKAN HALAMAN GITHUB ANDA, GUNA MEMUDAHKAN MENCARI HALAMAN GITHUB PROFILE ANDA_
+> * _UNTUK INFORMASI LAIN YANG BERSIFAT PRIVATE DIMOHON UNTUK TIDAK MENCANTUMKAN PADA REPOSITORY INI._
+> * _CANTUMKAN LINK-LINK YANG DAPAT DIGUNAKAN UNTUK MENGHUBUNGI ANDA **_JIKA DIPERLUKAN_** DAN **_BERHATI-HATI DALAM MEMBERIKAN INFORMASI PRIBADI_**_
+
 
 ## Daftar Anggota Group Telegram freekelasgithub
 
