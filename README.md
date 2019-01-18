@@ -11,6 +11,7 @@ http://t.me/freekelasgithub
   * Agus Muhajir (Kendal, Jawa Tengah)
   * Afif Arman (Pontianak, Kalimantan Barat)
   * Achmad Yunus (Kulonprogo, D.I.Y.)
+  * Alfian Hidayat [github](https://github.com/alfianguide) [instagram](http://instagram.com/alfianguide) [blog](http://alfianguide.blogspot.com) (Demak, Jawa Tengah)
 ### B
 ### C
 ### D
