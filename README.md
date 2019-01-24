@@ -48,7 +48,7 @@ Untuk menuliskan data diri anda, gunakan format markdown, jika anda belum menget
 ### P
 ### Q
 ### R
-  * Rizqi Nur Assyaufi [bandithijo.com](https://bandithijo.com) (Domisili : Balikpapan)
+  * Rizqi Nur Assyaufi [GitHub/bandithijo](https://github.com/bandithijo) (Domisili : Balikpapan)
 ### S
 ### T
 ### U
