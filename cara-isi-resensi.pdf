@@ -1,0 +1,18 @@
+Sebelum mengikuti langkah2 ini, sebaiknya anda membaca materi2 dasar, apa itu git, github, dkk, jika sudah, lanjuttt.
+
+biar mudah memahaminya langsung saja aku kasih contohnya mas, maaf klok langsung to the point alias njujug(orang jawa XD)
+1. fork repository freekelasgithub
+2. clone repository hasil forknya tadi yang ada di accountmu 
+3. lihat dulu repositorynya biar lebih jelas dengan perintah git remote -v
+4. lalu tambahkan repository utama dari freekelas github  dengan perintah git remote add <nama-repositori> <url-repository> nama repositori terserah sampean
+contoh: git remote add offical http://contoh.com/username/repo.git
+5. kemudian lakukan perubahan di README.md isikan data diri sampean
+6. lakukan commit terharap repositori hasil forkmu tadi dengan perintah git add . pada directori hasil clone repositori tadi.
+7. lakuan commit (biasanya saya meyebutnya gitu entah temen yang lain gmna) dengan pesan terserah sampean contoh git commit -m "isi presensi freekelasgithub"
+8. lakukan push ke repositori hasil fork tadi dengan perintah git push atau git push origin master untuk push salah satu repositori agar lebih jelas, setiap hasil clone dari repositori nama repositorinya selalu origin nggak ada yang lain.
+
+nah sampai sini sampean sudah hampir selesai melakukan challange dari pakdhe @Hajirodeon saatnya sampean tinggal memintah Pull Request ke repositori utamanya
+untuk meminta pull request cukup buka repositori freekelasgithub 
+1. klik tab pull request
+2. compare accross fork
+3. pilih dari daftar fork
