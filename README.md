@@ -1,5 +1,4 @@
-# freekelasgithubfreekelasgithub
-Free Kelas GITHUB.
+# Free Kelas Github 
 
 Belajar manajemen dan pengembangan aplikasi.
 http://t.me/freekelasgithub
@@ -20,10 +19,10 @@ Untuk menuliskan data diri anda, gunakan format markdown, jika anda belum menget
 ## Daftar Anggota Group Telegram freekelasgithub
 
 ### A
-  * Agus Muhajir (Kendal, Jawa Tengah)
+  * Agus Muhajir [github](https://github.com/hajirodeon) (Kendal, Jawa Tengah)
   * Afif Arman (Pontianak, Kalimantan Barat)
   * Achmad Yunus (Kulonprogo, D.I.Y.)
-  * Alfian Hidayat [github](https://github.com/alfianguide) [instagram](http://instagram.com/alfianguide) [blog](http://alfianguide.blogspot.com) (Demak, Jawa Tengah)
+  * Alfian Hidayat [github](https://github.com/alfianguide) [github2](https://github.com/alfianuinws) [instagram](http://instagram.com/alfianguide) [blog](http://alfianguide.blogspot.com) (Demak, Jawa Tengah)
 ### B
 ### C
 ### D
