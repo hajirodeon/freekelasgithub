@@ -34,7 +34,7 @@ Untuk menuliskan data diri anda, gunakan format markdown, jika anda belum menget
   * Ghani Rafif [github](https://github.com/ekickx) (Domisili: Jombang, Jawa Timur)
 ### H
   * Handiko [GitHub/handiko](https://github.com/handiko) (username telegram : Enigma, Tangerang Selatan, Banten)
-  * Hervy Qurrotul Ainur Rozi. Github : [Hervyqa](https://github.com/hervyqa) - Telegram : [@hervyqa](t.me/hervyqa) - About Me : [About me](about.me/hervyq), Mojokerto, Jawa Timur
+  * Hervy Qurrotul Ainur Rozi. Github : [Hervyqa](https://github.com/hervyqa) - Telegram : [@hervyqa](https://t.me/hervyqa) - About Me : [About me](https://about.me/hervyq), Mojokerto, Jawa Timur
 ### I
   * Ibrohim Mahmud Hanafi [github](https://github.com/blackinitial) (Asal Klaten)
   * Ian Mustafa [GitHub](https://github.com/ianmustafa) (Bojonegoro, Jawa Timur)
