@@ -43,7 +43,7 @@ Untuk menuliskan data diri anda, gunakan format markdown, jika anda belum menget
 ### M
   * Muhammad Nabil Adani [Github/nabil48](https://github.com/nabil48) (Domisili : Jawa Timur)
   * Muhammad Irwan Andriawan [Github/andriawan](https://github.com/andriawan) (Domisili : Jakarta Timur)
-
+  * Muhammad Naufal Pratama [GitHub/mhnaufal](https://github.com/mhnaufal) (Domisili : Semarang, Jawa Tengah)
 ### N
 ### O
 ### P
