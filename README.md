@@ -51,6 +51,7 @@ Untuk menuliskan data diri anda, gunakan format markdown, jika anda belum menget
 ### R
   * Rizqi Nur Assyaufi [GitHub/bandithijo](https://github.com/bandithijo) (Domisili : Balikpapan)
 ### S
+  * Sri Aspari [Github](https://github.com/siarie) (Domisili : Boyolali)
 ### T
 ### U
 ### V
