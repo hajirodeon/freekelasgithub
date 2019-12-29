@@ -29,6 +29,7 @@ Untuk menuliskan data diri anda, gunakan format markdown, jika anda belum menget
   * Epsiarto Rizqi Nurwijayadi [gitlab-epsi](https://gitlab.com/epsi-rns) (Domisili : Jakarta Timur)
 
 ### F
+  * Faizul Amali [github](https://github.com/ilamazuliaf) (Sumenep, Madura, Jawa Timur)
 ### G
   * Ghani Rafif [github](https://github.com/ekickx) (Domisili: Jombang, Jawa Timur)
 ### H
