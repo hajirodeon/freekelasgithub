@@ -13,11 +13,8 @@ Jika Anda sudah memilikinya namun belum mengerti bagaimana cara berkontribusi pa
 Untuk menuliskan data diri Anda, silakan gunakan format markdown. Jika Anda belum mengetahui apa itu markdown, maka anda dapat membacanya di halaman [Markdown Cheatseet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 > **MOHON DIPERHATIKAN BEBERAPA HAL BERIKUT :**
-
 > * _DIMOHON UNTUK MELAMPIRKAN HALAMAN GITHUB ANDA, GUNA MEMUDAHKAN MENCARI HALAMAN GITHUB PROFILE ANDA_
-
 > * _UNTUK INFORMASI LAIN YANG BERSIFAT PRIVATE DIMOHON UNTUK TIDAK DICANTUMKAN PADA REPOSITORY INI_
-
 > * _CANTUMKAN PRANALA-PRANALA YANG DAPAT DIGUNAKAN UNTUK MENGHUBUNGI ANDA **JIKA DIPERLUKAN** DAN **BERHATI-HATI DALAM MEMBERIKAN INFORMASI PRIBADI**_
 
 ## Daftar Anggota Grup Telegram Free Kelas GitHub
