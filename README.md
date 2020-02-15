@@ -70,6 +70,7 @@ Untuk menuliskan data diri Anda, silakan gunakan format markdown. Jika Anda belu
 
 ### R
  * Rizqi Nur Assyaufi [GitHub/bandithijo](https://github.com/bandithijo) (Domisili : Balikpapan)
+ * Rifai Martin [Github/rifaimartin](https://github.com/rifaimartin) (Domosili : Bogor)
 
 ### S
  * Sri Aspari [Github](https://github.com/siarie) (Domisili : Boyolali)
