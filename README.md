@@ -65,6 +65,7 @@ Untuk menuliskan data diri Anda, silakan gunakan format markdown. Jika Anda belu
 ### O
 
 ### P
+ * Piscki F. Pratama [GitHub/pisckipratama](https://github.com/pisckipratama) (Domisili: Bandung, Jabar)
 
 ### Q
 
